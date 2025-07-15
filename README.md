@@ -1,5 +1,5 @@
 
-![Logo](https://www.paytaca.com/_nuxt/paytaca_dark.cb10ef9d.png)
+![Logo](https://www.paytaca.com/_nuxt/paytaca_dark.eaa52369.png)
 
 
 # Paytaca Command Center
